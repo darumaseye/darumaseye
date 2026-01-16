@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#e87d43', 'D1D51SE18D');kofiwidget2.draw();</script> 
+## Hi there 👋 
 <!--
 
 **darumaseye/darumaseye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
