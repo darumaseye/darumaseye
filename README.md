@@ -1,4 +1,6 @@
-## Hi there 👋 
+## Hi there <img  width="30" height="30" src="https://github.com/user-attachments/assets/cc9ba736-c703-4b7f-8647-fa646179ac4f"> <a href='https://ko-fi.com/D1D51SE18D' target='_blank'><img align="right" height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Support me at ko-fi.com' /></a>
+
+
 <!--
 
 **darumaseye/darumaseye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
